@@ -1,4 +1,2 @@
 #!/bin/bash
-lic_l
-#!/bin/bash
-ln -s /bin/ls__ls__
+ln - /bin/ls __ls__
